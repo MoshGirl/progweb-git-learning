@@ -1,0 +1,11 @@
+ROteiro Git/Github
+- POrque controlar?
+- FOrmas de controlar
+- Ferramentas e websites Git
+bla bla bla
+
+Commandos git:
+-- Init
+-- Commit
+-- ADD
+-- STatus
